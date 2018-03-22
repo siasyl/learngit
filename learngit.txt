@@ -13,3 +13,6 @@ Dev branch changed.
 Master branch changed.
 
 Test barnch changed.
+
+Add -all
+
