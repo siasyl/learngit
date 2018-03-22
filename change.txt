@@ -1,0 +1,18 @@
+Learn git first file.
+Try my first change.
+Try my second change.
+Try my third change.
+Try my fourth change.
+Try my fifth change.
+
+Try second time push to git.
+
+Dev branch changed.
+
+
+Master branch changed.
+
+Test barnch changed.
+
+Add -all
+
